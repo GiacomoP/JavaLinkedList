@@ -1,0 +1,9 @@
+Java Linked List
+
+What is it?
+-------------
+
+This is a library you can use to create linked lists in Java.
+It contains a sample to show you how to use it.
+The linked list is sorted to get good performances, so you'll
+need a comparable key for every object you put in the list.
